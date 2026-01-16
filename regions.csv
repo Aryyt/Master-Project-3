@@ -1,0 +1,902 @@
+NAME_LATN,NUTS_ID
+Göttingen,DE91C
+Cochem-Zell,DEB1C
+Rhein-Hunsrück-Kreis,DEB1D
+Kainuu,FI1D8
+Pohjois-Pohjanmaa,FI1D9
+Cher,FRB01
+Indre,FRB03
+Indre-et-Loire,FRB04
+Loir-et-Cher,FRB05
+Loiret,FRB06
+Côte-d’Or,FRC11
+Nièvre,FRC12
+Saône-et-Loire,FRC13
+Doubs,FRC21
+Jura,FRC22
+Haute-Saône,FRC23
+Territoire de Belfort,FRC24
+Calvados,FRD11
+Orne,FRD13
+Eure,FRD21
+Seine-Maritime,FRD22
+Nord,FRE11
+Pas-de-Calais,FRE12
+Aisne,FRE21
+Oise,FRE22
+Ardennes,FRF21
+Aube,FRF22
+Haute-Marne,FRF24
+Meurthe-et-Moselle,FRF31
+Meuse,FRF32
+Moselle,FRF33
+Vosges,FRF34
+Loire-Atlantique,FRG01
+Maine-et-Loire,FRG02
+Mayenne,FRG03
+Sarthe,FRG04
+Vendée,FRG05
+Ille-et-Vilaine,FRH03
+Morbihan,FRH04
+Dordogne,FRI11
+Gironde,FRI12
+Landes,FRI13
+Lot-et-Garonne,FRI14
+Pyrénées-Atlantiques,FRI15
+Corrèze,FRI21
+Creuse,FRI22
+Haute-Vienne,FRI23
+Charente,FRI31
+Charente-Maritime,FRI32
+Deux-Sèvres,FRI33
+Vienne,FRI34
+Aude,FRJ11
+Hérault,FRJ13
+Lozère,FRJ14
+Ariège,FRJ21
+Aveyron,FRJ22
+Lot,FRJ25
+Hautes-Pyrénées,FRJ26
+Tarn,FRJ27
+Allier,FRK11
+Cantal,FRK12
+Haute-Loire,FRK13
+Puy-de-Dôme,FRK14
+Ain,FRK21
+Ardèche,FRK22
+Isère,FRK24
+Rhône,FRK26
+Savoie,FRK27
+Haute-Savoie,FRK28
+Alpes-de-Haute-Provence,FRL01
+Hautes-Alpes,FRL02
+Tarragona,ES514
+Lleida,ES513
+Girona,ES512
+Cáceres,ES432
+Trenčiansky kraj,SK022
+Timiş,RO424
+Caraş-Severin,RO422
+Mehedinţi,RO413
+Bucureşti,RO321
+Ialomiţa,RO315
+Călăraşi,RO312
+Argeş,RO311
+Galaţi,RO224
+Constanţa,RO223
+Buzău,RO222
+Brăila,RO221
+Neamţ,RO214
+Iaşi,RO213
+Bacău,RO211
+Mureş,RO125
+Braşov,RO122
+Maramureş,RO114
+Bistriţa-Năsăud,RO112
+Warmińsko-mazurskie,PL62
+Dolnośląskie,PL51
+Alpes-Maritimes,FRL03
+Bouches-du-Rhône,FRL04
+Var,FRL05
+Vaucluse,FRL06
+Corse-du-Sud,FRM01
+Haute-Corse,FRM02
+Budapest,HU110
+Pest,HU120
+Northern and Western,IE04
+Southern,IE05
+Eastern and Midland,IE06
+Vilniaus apskritis,LT011
+Alytaus apskritis,LT021
+Kauno apskritis,LT022
+Marijampolės apskritis,LT024
+Panevėžio apskritis,LT025
+Šiaulių apskritis,LT026
+Tauragės apskritis,LT027
+Utenos apskritis,LT029
+Łódzkie,PL71
+Świętokrzyskie,PL72
+Lubelskie,PL81
+Podkarpackie,PL82
+Podlaskie,PL84
+Warszawski stołeczny,PL91
+Mazowiecki regionalny,PL92
+Małopolskie,PL21
+Győr-Moson-Sopron,HU221
+Seine-Saint-Denis,FR106
+Hauts-de-Seine,FR105
+Yvelines,FR103
+Seine-et-Marne,FR102
+"Magnisia, Sporades",EL613
+"Arta, Preveza",EL541
+"Grevena, Kozani",EL531
+"Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos",EL422
+"Kalymnos, Karpathos, Kos, Rodos",EL421
+Chios,EL413
+"Lesvos, Limnos",EL411
+Voreios Tomeas Athinon,EL301
+Burgenlandkreis,DEE08
+"Mülheim an der Ruhr, Kreisfreie Stadt",DEA16
+Kraj Vysočina,CZ063
+Plzeňský kraj,CZ032
+Jihočeský kraj,CZ031
+Hlavní město Praha,CZ010
+KYPROS,CY
+Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,BE10
+Burgenland,AT11
+Badajoz,ES431
+Toledo,ES425
+Guadalajara,ES424
+Ciudad Real,ES422
+Albacete,ES421
+Zamora,ES419
+Soria,ES417
+Segovia,ES416
+Salamanca,ES415
+Palencia,ES414
+Burgos,ES412
+Ávila,ES411
+Madrid,ES300
+Zaragoza,ES243
+Teruel,ES242
+Huesca,ES241
+La Rioja,ES230
+Navarra,ES220
+Bizkaia,ES213
+Araba/Álava,ES211
+Cantabria,ES130
+Pontevedra,ES114
+Ourense,ES113
+A Coruña,ES111
+"Lakonia, Messinia",EL653
+Korinthia,EL652
+"Argolida, Arkadia",EL651
+Fokida,EL645
+Fthiotida,EL644
+Evvoia,EL642
+Voiotia,EL641
+Ileia,EL633
+Lefkada,EL624
+"Ithaki, Kefallinia",EL623
+Kerkyra,EL622
+Zakynthos,EL621
+Larisa,EL612
+"Karditsa, Trikala",EL611
+Ioannina,EL543
+Thesprotia,EL542
+Florina,EL533
+Kastoria,EL532
+Serres,EL526
+Pieria,EL525
+Pella,EL524
+Kilkis,EL523
+Imathia,EL521
+"Thasos, Kavala",EL515
+Drama,EL514
+Rodopi,EL513
+Xanthi,EL512
+Evros,EL511
+Chania,EL434
+Rethymni,EL433
+Irakleio,EL431
+"Ikaria, Samos",EL412
+"Peiraias, Nisoi",EL307
+Anatoliki Attiki,EL305
+Kentrikos Tomeas Athinon,EL303
+Lõuna-Eesti,EE008
+Kirde-Eesti,EE007
+Kesk-Eesti,EE006
+Põhja-Eesti,EE001
+Østjylland,DK042
+Vestjylland,DK041
+Sydjylland,DK032
+Fyn,DK031
+Vest- og Sydsjælland,DK022
+Østsjælland,DK021
+Bornholm,DK014
+Nordsjælland,DK013
+Københavns omegn,DK012
+Byen København,DK011
+Wartburgkreis,DEG0P
+Altenburger Land,DEG0M
+Greiz,DEG0L
+Saale-Orla-Kreis,DEG0K
+Saale-Holzland-Kreis,DEG0J
+Saalfeld-Rudolstadt,DEG0I
+Sonneberg,DEG0H
+Ilm-Kreis,DEG0F
+Hildburghausen,DEG0E
+Sömmerda,DEG0D
+Gotha,DEG0C
+Schmalkalden-Meiningen,DEG0B
+Kyffhäuserkreis,DEG0A
+Eichsfeld,DEG06
+"Weimar, Kreisfreie Stadt",DEG05
+"Gera, Kreisfreie Stadt",DEG02
+"Erfurt, Kreisfreie Stadt",DEG01
+Stormarn,DEF0F
+Steinburg,DEF0E
+Segeberg,DEF0D
+Schleswig-Flensburg,DEF0C
+Rendsburg-Eckernförde,DEF0B
+Plön,DEF0A
+Pinneberg,DEF09
+Nordfriesland,DEF07
+Herzogtum Lauenburg,DEF06
+Dithmarschen,DEF05
+"Neumünster, Kreisfreie Stadt",DEF04
+"Lübeck, Kreisfreie Stadt",DEF03
+"Kiel, Kreisfreie Stadt",DEF02
+"Flensburg, Kreisfreie Stadt",DEF01
+Wittenberg,DEE0E
+Stendal,DEE0D
+Salzlandkreis,DEE0C
+Saalekreis,DEE0B
+Mansfeld-Südharz,DEE0A
+Harz,DEE09
+Börde,DEE07
+Jerichower Land,DEE06
+Anhalt-Bitterfeld,DEE05
+"Magdeburg, Kreisfreie Stadt",DEE03
+"Dessau-Roßlau, Kreisfreie Stadt",DEE01
+Nordsachsen,DED53
+Leipzig,DED52
+"Leipzig, Kreisfreie Stadt",DED51
+Zwickau,DED45
+Vogtlandkreis,DED44
+Mittelsachsen,DED43
+"Chemnitz, Kreisfreie Stadt",DED41
+Sächsische Schweiz-Osterzgebirge,DED2F
+Meißen,DED2E
+Görlitz,DED2D
+Bautzen,DED2C
+"Dresden, Kreisfreie Stadt",DED21
+Mainz-Bingen,DEB3J
+Rhein-Pfalz-Kreis,DEB3I
+Südliche Weinstraße,DEB3H
+Kusel,DEB3G
+"Kaiserslautern, Landkreis",DEB3F
+"Ludwigshafen am Rhein, Kreisfreie Stadt",DEB34
+"Landau in der Pfalz, Kreisfreie Stadt",DEB33
+"Kaiserslautern, Kreisfreie Stadt",DEB32
+"Frankenthal (Pfalz), Kreisfreie Stadt",DEB31
+Trier-Saarburg,DEB25
+Vulkaneifel,DEB24
+Eifelkreis Bitburg-Prüm,DEB23
+"Trier, Kreisfreie Stadt",DEB21
+Westerwaldkreis,DEB1B
+Rhein-Lahn-Kreis,DEB1A
+Neuwied,DEB18
+Mayen-Koblenz,DEB17
+Birkenfeld,DEB15
+Bad Kreuznach,DEB14
+Ahrweiler,DEB12
+"Koblenz, Kreisfreie Stadt",DEB11
+Unna,DEA5C
+Soest,DEA5B
+Siegen-Wittgenstein,DEA5A
+Olpe,DEA59
+Märkischer Kreis,DEA58
+Hochsauerlandkreis,DEA57
+Ennepe-Ruhr-Kreis,DEA56
+"Herne, Kreisfreie Stadt",DEA55
+"Hamm, Kreisfreie Stadt",DEA54
+"Hagen, Kreisfreie Stadt",DEA53
+"Dortmund, Kreisfreie Stadt",DEA52
+"Bochum, Kreisfreie Stadt",DEA51
+Paderborn,DEA47
+Minden-Lübbecke,DEA46
+Lippe,DEA45
+Höxter,DEA44
+Herford,DEA43
+Gütersloh,DEA42
+"Bielefeld, Kreisfreie Stadt",DEA41
+Steinfurt,DEA37
+Coesfeld,DEA35
+Borken,DEA34
+"Gelsenkirchen, Kreisfreie Stadt",DEA32
+"Bottrop, Kreisfreie Stadt",DEA31
+Städteregion Aachen,DEA2D
+Rhein-Sieg-Kreis,DEA2C
+Rheinisch-Bergischer Kreis,DEA2B
+Oberbergischer Kreis,DEA2A
+Heinsberg,DEA29
+Euskirchen,DEA28
+Rhein-Erft-Kreis,DEA27
+"Leverkusen, Kreisfreie Stadt",DEA24
+Wesel,DEA1F
+Viersen,DEA1E
+Rhein-Kreis Neuss,DEA1D
+Mettmann,DEA1C
+Kleve,DEA1B
+"Wuppertal, Kreisfreie Stadt",DEA1A
+"Solingen, Kreisfreie Stadt",DEA19
+"Remscheid, Kreisfreie Stadt",DEA18
+"Oberhausen, Kreisfreie Stadt",DEA17
+"Mönchengladbach, Kreisfreie Stadt",DEA15
+"Krefeld, Kreisfreie Stadt",DEA14
+"Essen, Kreisfreie Stadt",DEA13
+Košický kraj,SK042
+Prešovský kraj,SK041
+Banskobystrický kraj,SK032
+Nitriansky kraj,SK023
+Trnavský kraj,SK021
+Bratislavský kraj,SK010
+Zahodna Slovenija,SI04
+Vzhodna Slovenija,SI03
+Gävleborgs län,SE313
+Värmlands län,SE311
+Västra Götalands län,SE232
+Hallands län,SE231
+Skåne län,SE224
+Blekinge län,SE221
+Gotlands län,SE214
+Jönköpings län,SE211
+Västmanlands län,SE125
+Örebro län,SE124
+Södermanlands län,SE122
+Uppsala län,SE121
+Stockholms län,SE110
+Arad,RO421
+Vâlcea,RO415
+Olt,RO414
+Gorj,RO412
+Dolj,RO411
+Ilfov,RO322
+Teleorman,RO317
+Giurgiu,RO314
+Vrancea,RO226
+Tulcea,RO225
+Suceava,RO215
+Sibiu,RO126
+Harghita,RO124
+Covasna,RO123
+Alba,RO121
+Cluj,RO113
+Bihor,RO111
+Região Autónoma dos Açores,PT20
+Alentejo,PT18
+Área Metropolitana de Lisboa,PT17
+Hamburg,DE600
+Centro (PT),PT16
+Algarve,PT15
+Norte,PT11
+Pomorskie,PL63
+Kujawsko-pomorskie,PL61
+Opolskie,PL52
+Lubuskie,PL43
+Zachodniopomorskie,PL42
+Wielkopolskie,PL41
+Limburg (NL),NL42
+Noord-Brabant,NL41
+Zeeland,NL34
+Zuid-Holland,NL33
+Noord-Holland,NL32
+Utrecht,NL31
+Flevoland,NL23
+Gelderland,NL22
+Overijssel,NL21
+Friesland (NL),NL12
+Groningen,NL11
+MALTA,MT
+Vidzeme,LV008
+Latgale,LV005
+Kurzeme,LV003
+LUXEMBOURG,LU
+Frosinone,ITI45
+Roma,ITI43
+Rieti,ITI42
+Viterbo,ITI41
+Ascoli Piceno,ITI34
+Macerata,ITI33
+Ancona,ITI32
+Pesaro e Urbino,ITI31
+Terni,ITI22
+Perugia,ITI21
+Grosseto,ITI1A
+Siena,ITI19
+Arezzo,ITI18
+Pisa,ITI17
+Livorno,ITI16
+Pistoia,ITI13
+Lucca,ITI12
+Rimini,ITH59
+Forlì-Cesena,ITH58
+Ferrara,ITH56
+Bologna,ITH55
+Modena,ITH54
+Parma,ITH52
+Piacenza,ITH51
+Trieste,ITH44
+Gorizia,ITH43
+Udine,ITH42
+Pordenone,ITH41
+Rovigo,ITH37
+Padova,ITH36
+Treviso,ITH34
+Belluno,ITH33
+Vicenza,ITH32
+Verona,ITH31
+Trento,ITH20
+Carbonia-Iglesias,ITG2C
+Medio Campidano,ITG2B
+Ogliastra,ITG2A
+Olbia-Tempio,ITG29
+Oristano,ITG28
+Cagliari,ITG27
+Nuoro,ITG26
+Sassari,ITG25
+Messina,ITG13
+Reggio di Calabria,ITF65
+Catanzaro,ITF63
+Crotone,ITF62
+Cosenza,ITF61
+Matera,ITF52
+Potenza,ITF51
+Barletta-Andria-Trani,ITF48
+Bari,ITF47
+Foggia,ITF46
+Brindisi,ITF44
+Salerno,ITF35
+Benevento,ITF32
+Caserta,ITF31
+Campobasso,ITF22
+Isernia,ITF21
+Chieti,ITF14
+Pescara,ITF13
+Teramo,ITF12
+L'Aquila,ITF11
+Monza e della Brianza,ITC4D
+Milano,ITC4C
+Cremona,ITC4A
+Pavia,ITC48
+Brescia,ITC47
+Bergamo,ITC46
+Sondrio,ITC44
+Como,ITC42
+Varese,ITC41
+La Spezia,ITC34
+Alessandria,ITC18
+Cuneo,ITC16
+Novara,ITC15
+Biella,ITC13
+Torino,ITC11
+Csongrád,HU333
+Bács-Kiskun,HU331
+Szabolcs-Szatmár-Bereg,HU323
+Hajdú-Bihar,HU321
+Nógrád,HU313
+Heves,HU312
+Tolna,HU233
+Somogy,HU232
+Baranya,HU231
+Zala,HU223
+Vas,HU222
+Veszprém,HU213
+Komárom-Esztergom,HU212
+Fejér,HU211
+Kontinentalna Hrvatska,HR04
+Jadranska Hrvatska,HR03
+Val-d'Oise,FR108
+Val-de-Marne,FR107
+Essonne,FR104
+Åland,FI200
+Lappi,FI1D7
+Keski-Pohjanmaa,FI1D5
+Pohjois-Karjala,FI1D3
+Pohjois-Savo,FI1D2
+Etelä-Savo,FI1D1
+Etelä-Karjala,FI1C5
+Kymenlaakso,FI1C4
+Päijät-Häme,FI1C3
+Kanta-Häme,FI1C2
+Varsinais-Suomi,FI1C1
+Helsinki-Uusimaa,FI1B1
+Pirkanmaa,FI197
+Satakunta,FI196
+Pohjanmaa,FI195
+Etelä-Pohjanmaa,FI194
+Keski-Suomi,FI193
+Tenerife,ES709
+Lanzarote,ES708
+La Palma,ES707
+La Gomera,ES706
+Fuerteventura,ES704
+Murcia,ES620
+Sevilla,ES618
+Jaén,ES616
+Huelva,ES615
+Granada,ES614
+Cádiz,ES612
+Almería,ES611
+Castellón / Castelló,ES522
+Alicante / Alacant,ES521
+Germersheim,DEB3E
+Bad Dürkheim,DEB3C
+Alzey-Worms,DEB3B
+"Zweibrücken, Kreisfreie Stadt",DEB3A
+"Worms, Kreisfreie Stadt",DEB39
+"Speyer, Kreisfreie Stadt",DEB38
+"Pirmasens, Kreisfreie Stadt",DEB37
+"Neustadt an der Weinstraße, Kreisfreie Stadt",DEB36
+"Mainz, Kreisfreie Stadt",DEB35
+"Duisburg, Kreisfreie Stadt",DEA12
+"Düsseldorf, Kreisfreie Stadt",DEA11
+Wittmund,DE94H
+Wesermarsch,DE94G
+Vechta,DE94F
+"Osnabrück, Landkreis",DE94E
+Leer,DE94C
+Grafschaft Bentheim,DE94B
+Friesland (DE),DE94A
+Aurich,DE947
+Ammerland,DE946
+"Wilhelmshaven, Kreisfreie Stadt",DE945
+"Osnabrück, Kreisfreie Stadt",DE944
+Uckermark,DE40I
+Teltow-Fläming,DE40H
+Prignitz,DE40F
+Potsdam-Mittelmark,DE40E
+Ostprignitz-Ruppin,DE40D
+Oder-Spree,DE40C
+Oberspreewald-Lausitz,DE40B
+Oberhavel,DE40A
+Märkisch-Oderland,DE409
+Elbe-Elster,DE407
+Dahme-Spreewald,DE406
+Barnim,DE405
+"Potsdam, Kreisfreie Stadt",DE404
+"Cottbus, Kreisfreie Stadt",DE402
+"Brandenburg an der Havel, Kreisfreie Stadt",DE401
+Berlin,DE300
+Oberallgäu,DE27E
+Donau-Ries,DE27D
+Unterallgäu,DE27C
+Ostallgäu,DE27B
+Lindau (Bodensee),DE27A
+Neu-Ulm,DE279
+Günzburg,DE278
+Dillingen a.d. Donau,DE277
+"Augsburg, Landkreis",DE276
+Aichach-Friedberg,DE275
+"Augsburg, Kreisfreie Stadt",DE271
+"Würzburg, Landkreis",DE26C
+"Schweinfurt, Landkreis",DE26B
+Main-Spessart,DE26A
+Miltenberg,DE269
+Kitzingen,DE268
+Rhön-Grabfeld,DE266
+Bad Kissingen,DE265
+"Aschaffenburg, Landkreis",DE264
+"Würzburg, Kreisfreie Stadt",DE263
+"Schweinfurt, Kreisfreie Stadt",DE262
+"Aschaffenburg, Kreisfreie Stadt",DE261
+Weißenburg-Gunzenhausen,DE25C
+Roth,DE25B
+Neustadt a. d. Aisch-Bad Windsheim,DE25A
+Nürnberger Land,DE259
+"Fürth, Landkreis",DE258
+"Ansbach, Landkreis",DE256
+"Schwabach, Kreisfreie Stadt",DE255
+"Nürnberg, Kreisfreie Stadt",DE254
+"Erlangen, Kreisfreie Stadt",DE252
+"Ansbach, Kreisfreie Stadt",DE251
+Wunsiedel i. Fichtelgebirge,DE24D
+Lichtenfels,DE24C
+Kulmbach,DE24B
+Kronach,DE24A
+"Hof, Landkreis",DE249
+Forchheim,DE248
+"Coburg, Landkreis",DE247
+"Bayreuth, Landkreis",DE246
+"Bamberg, Landkreis",DE245
+"Hof, Kreisfreie Stadt",DE244
+"Coburg, Kreisfreie Stadt",DE243
+"Bayreuth, Kreisfreie Stadt",DE242
+"Bamberg, Kreisfreie Stadt",DE241
+Schwandorf,DE239
+"Regensburg, Landkreis",DE238
+Haut-Rhin,FRF12
+Haute-Garonne,FRJ23
+Barcelona,ES511
+Lasithi,EL432
+Unstrut-Hainich-Kreis,DEG09
+Latina,ITI44
+Ravenna,ITH57
+Avellino,ITF34
+Vercelli,ITC12
+Donnersbergkreis,DEB3D
+Düren,DEA26
+Ravensburg,DE148
+Moravskoslezský kraj,CZ080
+Neustadt a. d. Waldnaab,DE237
+Neumarkt i. d. OPf.,DE236
+Cham,DE235
+Amberg-Sulzbach,DE234
+"Weiden i. d. Opf, Kreisfreie Stadt",DE233
+"Regensburg, Kreisfreie Stadt",DE232
+"Amberg, Kreisfreie Stadt",DE231
+Dingolfing-Landau,DE22C
+Straubing-Bogen,DE22B
+Rottal-Inn,DE22A
+Regen,DE229
+"Landshut, Landkreis",DE227
+Kelheim,DE226
+Freyung-Grafenau,DE225
+Deggendorf,DE224
+"Straubing, Kreisfreie Stadt",DE223
+Manche,FRD12
+Marne,FRF23
+"Passau, Kreisfreie Stadt",DE222
+"Landshut, Kreisfreie Stadt",DE221
+Weilheim-Schongau,DE21N
+Traunstein,DE21M
+Starnberg,DE21L
+"Rosenheim, Landkreis",DE21K
+Pfaffenhofen a. d. Ilm,DE21J
+Neuburg-Schrobenhausen,DE21I
+"München, Landkreis",DE21H
+Mühldorf a. Inn,DE21G
+Miesbach,DE21F
+Garmisch-Partenkirchen,DE21D
+Erding,DE21A
+Eichstätt,DE219
+Ebersberg,DE218
+Dachau,DE217
+Bad Tölz-Wolfratshausen,DE216
+Berchtesgadener Land,DE215
+Altötting,DE214
+"Rosenheim, Kreisfreie Stadt",DE213
+"München, Kreisfreie Stadt",DE212
+"Ingolstadt, Kreisfreie Stadt",DE211
+Sigmaringen,DE149
+Bodenseekreis,DE147
+Biberach,DE146
+Alb-Donau-Kreis,DE145
+"Ulm, Stadtkreis",DE144
+Zollernalbkreis,DE143
+"Tübingen, Landkreis",DE142
+Reutlingen,DE141
+Waldshut,DE13A
+Konstanz,DE138
+Tuttlingen,DE137
+Rottweil,DE135
+Ortenaukreis,DE134
+Emmendingen,DE133
+Breisgau-Hochschwarzwald,DE132
+"Freiburg im Breisgau, Stadtkreis",DE131
+Freudenstadt,DE12C
+Enzkreis,DE12B
+Calw,DE12A
+"Pforzheim, Stadtkreis",DE129
+Rhein-Neckar-Kreis,DE128
+Neckar-Odenwald-Kreis,DE127
+"Mannheim, Stadtkreis",DE126
+Rastatt,DE124
+"Karlsruhe, Landkreis",DE123
+"Karlsruhe, Stadtkreis",DE122
+"Baden-Baden, Stadtkreis",DE121
+Ostalbkreis,DE11D
+Heidenheim,DE11C
+Main-Tauber-Kreis,DE11B
+Schwäbisch Hall,DE11A
+Hohenlohekreis,DE119
+"Heilbronn, Stadtkreis",DE117
+Rems-Murr-Kreis,DE116
+Ludwigsburg,DE115
+Göppingen,DE114
+Esslingen,DE113
+Böblingen,DE112
+"Stuttgart, Stadtkreis",DE111
+Zlínský kraj,CZ072
+Olomoucký kraj,CZ071
+Pardubický kraj,CZ053
+Liberecký kraj,CZ051
+Ústecký kraj,CZ042
+Karlovarský kraj,CZ041
+Yuzhen tsentralen,BG42
+Yugozapaden,BG41
+Yugoiztochen,BG34
+Severen tsentralen,BG32
+Severozapaden,BG31
+Prov. Namur,BE35
+Prov. Luxembourg (BE),BE34
+Prov. Liège,BE33
+Prov. Hainaut,BE32
+Prov. Brabant Wallon,BE31
+Prov. West-Vlaanderen,BE25
+Prov. Vlaams-Brabant,BE24
+Prov. Oost-Vlaanderen,BE23
+Prov. Limburg (BE),BE22
+Prov. Antwerpen,BE21
+Vorarlberg,AT34
+Tirol,AT33
+"Oldenburg (Oldenburg), Kreisfreie Stadt",DE943
+"Delmenhorst, Kreisfreie Stadt",DE941
+Verden,DE93B
+Uelzen,DE93A
+Stade,DE939
+Heidekreis,DE938
+Osterholz,DE936
+"Lüneburg, Landkreis",DE935
+Lüchow-Dannenberg,DE934
+Harburg,DE933
+Cuxhaven,DE932
+Region Hannover,DE929
+Schaumburg,DE928
+Nienburg (Weser),DE927
+Holzminden,DE926
+Hildesheim,DE925
+Diepholz,DE922
+Wolfenbüttel,DE91B
+Peine,DE91A
+Northeim,DE918
+Helmstedt,DE917
+Goslar,DE916
+Gifhorn,DE914
+"Wolfsburg, Kreisfreie Stadt",DE913
+"Salzgitter, Kreisfreie Stadt",DE912
+"Braunschweig, Kreisfreie Stadt",DE911
+Ludwigslust-Parchim,DE80O
+Vorpommern-Greifswald,DE80N
+Nordwestmecklenburg,DE80M
+Vorpommern-Rügen,DE80L
+Landkreis Rostock,DE80K
+Mecklenburgische Seenplatte,DE80J
+Werra-Meißner-Kreis,DE737
+Waldeck-Frankenberg,DE736
+Schwalm-Eder-Kreis,DE735
+Hersfeld-Rotenburg,DE733
+Fulda,DE732
+"Kassel, Kreisfreie Stadt",DE731
+Vogelsbergkreis,DE725
+Marburg-Biedenkopf,DE724
+Limburg-Weilburg,DE723
+"Gießen, Landkreis",DE721
+Rheingau-Taunus-Kreis,DE71D
+"Offenbach, Landkreis",DE71C
+Odenwaldkreis,DE71B
+Main-Taunus-Kreis,DE71A
+Main-Kinzig-Kreis,DE719
+Hochtaunuskreis,DE718
+Darmstadt-Dieburg,DE716
+"Wiesbaden, Kreisfreie Stadt",DE714
+"Frankfurt am Main, Kreisfreie Stadt",DE712
+Oberösterreich,AT31
+Steiermark,AT22
+Kärnten,AT21
+Wien,AT13
+Celle,DE931
+"Kassel, Landkreis",DE734
+Cloppenburg,DE948
+"Bonn, Kreisfreie Stadt",DEA22
+Nordhausen,DEG07
+Śląskie,PL22
+Drenthe,NL13
+Valladolid,ES418
+Asturias,ES120
+Aitoloakarnania,EL631
+Notios Tomeas Athinon,EL304
+Nordjylland,DK050
+Weimarer Land,DEG0G
+Ostholstein,DEF08
+"Halle (Saale), Kreisfreie Stadt",DEE02
+Kronobergs län,SE212
+Satu Mare,RO115
+Fermo,ITI35
+Prato,ITI15
+Reggio nell'Emilia,ITH53
+Taranto,ITF43
+Mantova,ITC4B
+Valle d'Aosta/Vallée d'Aoste,ITC20
+Gran Canaria,ES705
+Bernkastel-Wittlich,DEB22
+Warendorf,DEA38
+"Köln, Kreisfreie Stadt",DEA23
+"Passau, Landkreis",DE228
+Landsberg am Lech,DE21E
+Schwarzwald-Baar-Kreis,DE136
+Jihomoravský kraj,CZ064
+"Emden, Kreisfreie Stadt",DE942
+"Oldenburg, Landkreis",DE94D
+"Memmingen, Kreisfreie Stadt",DE274
+Tirschenreuth,DE23A
+Região Autónoma da Madeira,PT30
+Somme,FRE23
+Groß-Gerau,DE717
+Severoiztochen,BG33
+Dytiki Attiki,EL306
+Gard,FRJ12
+Lugo,ES112
+Altmarkkreis Salzwedel,DEE04
+Hunedoara,RO423
+Jász-Nagykun-Szolnok,HU322
+Královéhradecký kraj,CZ052
+Lahn-Dill-Kreis,DE722
+"Frankfurt (Oder), Kreisfreie Stadt",DE403
+Tarn-et-Garonne,FRJ28
+Cuenca,ES423
+Evrytania,EL643
+Haßberge,DE267
+Chalkidiki,EL527
+Vibo Valentia,ITF64
+El Hierro,ES703
+Recklinghausen,DEA36
+Wetteraukreis,DE71E
+Spree-Neiße,DE40G
+Yonne,FRC14
+Drôme,FRK23
+Córdoba,ES613
+"Heidelberg, Stadtkreis",DE125
+Bergstraße,DE715
+Pierīga,LV007
+Dytikos Tomeas Athinon,EL302
+Eure-et-Loir,FRB02
+Bas-Rhin,FRF11
+Gers,FRJ24
+Loire,FRK25
+Klaipėdos apskritis,LT023
+Zemgale,LV009
+Firenze,ITI14
+Gipuzkoa,ES212
+Achaia,EL632
+Thessaloniki,EL522
+"Eisenach, Kreisfreie Stadt",DEG0N
+Erzgebirgskreis,DED42
+Prahova,RO316
+Finistère,FRH02
+Venezia,ITH35
+Catania,ITG17
+Lodi,ITC49
+Asti,ITC17
+Valencia / València,ES523
+Altenkirchen (Westerwald),DEB13
+Havelland,DE408
+"Fürth, Kreisfreie Stadt",DE253
+Freising,DE21B
+Lörrach,DE139
+"Heilbronn, Landkreis",DE118
+Salzburg,AT32
+Niederösterreich,AT12
+Emsland,DE949
+Hameln-Pyrmont,DE923
+Středočeský kraj,CZ020
+Côtes-d’Armor,FRH01
+Telšių apskritis,LT028
+Dâmboviţa,RO313
+Botoşani,RO212
+"Münster, Kreisfreie Stadt",DEA33
+León,ES413
+Lääne-Eesti,EE004
+Südwestpfalz,DEB3K
+Žilinský kraj,SK031
+Dalarnas län,SE312
+Kalmar län,SE213
+Östergötlands län,SE123
+Pyrénées-Orientales,FRJ15
+Békés,HU332
+Borsod-Abaúj-Zemplén,HU311
+Málaga,ES617
+Erlangen-Höchstadt,DE257
+Fürstenfeldbruck,DE21C
+Rotenburg (Wümme),DE937
